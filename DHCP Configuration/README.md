@@ -39,7 +39,7 @@ end
 write memory
 ```
 ✅ *Interface configured successfully:*  
-![Router Config](Router Config.png)
+![Router_Config](Router_Config.png)
 
 ---
 
@@ -59,7 +59,7 @@ end
 write memory
 ```
 ✅ *DHCP pool configured successfully:*  
-![Router Config DHCP](Router Config DHCP.png)
+![Router_Config_DHCP](Router_Config_DHCP.png)
 
 ---
 
@@ -68,7 +68,7 @@ On each PC, go to **Desktop > IP Configuration** and select **DHCP**.
 The PC should receive an IP address, subnet mask, gateway, and DNS from the router automatically.
 
 ✅ *Example from PC0:*  
-![IP Config](IP Config.png)
+![IP_Config](IP_Config.png)
 
 ---
 
@@ -80,10 +80,10 @@ Successful pings show that:
 - The router is functioning as the default gateway.
 
 ✅ *Ping from PC0 to Router:*  
-![Test PC0](Test PC0.png)
+![Test_PC0](Test_PC0.png)
 
 ✅ *Ping from PC0 to another PC:*  
-![Test PC to PC](Test PC to PC.png)
+![Test_PC_to_PC](Test_PC_to_PC.png)
 
 ---
 
